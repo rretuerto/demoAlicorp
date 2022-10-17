@@ -1,0 +1,13 @@
+__pycache__/
+experiments/
+data/
+tmp/
+
+.DS_Store
+.env.yml
+*.json
+*.pem
+*.csv
+*.log
+requirements-outdated.txt
+dev_rfc.log
